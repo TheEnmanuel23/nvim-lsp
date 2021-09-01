@@ -6,13 +6,13 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'nvim-lua/popup.nvim'
  Plug 'nvim-lua/plenary.nvim'
  Plug 'nvim-telescope/telescope.nvim'
+ Plug 'kyazdani42/nvim-web-devicons'
 " Plug 'overcache/NeoSolarized'
 " Plug 'tpope/vim-fugitive'
 " Plug 'jlanzarotta/bufexplorer'
 " Plug 'nvim-lua/popup.nvim'
 " Plug 'nvim-lua/plenary.nvim'
 " Plug 'nvim-telescope/telescope.nvim'
-" Plug 'kyazdani42/nvim-web-devicons'
 " Plug 'hoob3rt/lualine.nvim'
 
 call plug#end()
