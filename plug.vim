@@ -8,6 +8,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'nvim-telescope/telescope.nvim'
  Plug 'kyazdani42/nvim-web-devicons'
  Plug 'hoob3rt/lualine.nvim'
+ Plug 'windwp/nvim-autopairs'
 " Plug 'overcache/NeoSolarized'
 " Plug 'tpope/vim-fugitive'
 " Plug 'jlanzarotta/bufexplorer'
