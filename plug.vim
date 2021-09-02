@@ -11,8 +11,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'windwp/nvim-autopairs'
  Plug 'folke/lsp-colors.nvim'
  Plug 'tpope/vim-fugitive'
-" Plug 'overcache/NeoSolarized'
-" Plug 'tpope/vim-fugitive'
-" Plug 'jlanzarotta/bufexplorer'
 
 call plug#end()
