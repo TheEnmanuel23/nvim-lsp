@@ -15,4 +15,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'tpope/vim-surround'
  Plug 'terrortylor/nvim-comment'
  Plug 'JoosepAlviste/nvim-ts-context-commentstring'
+ Plug 'morhetz/gruvbox'
+ Plug 'overcache/NeoSolarized'
+ Plug 'xiyaowong/nvim-transparent'
 call plug#end()
