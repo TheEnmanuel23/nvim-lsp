@@ -15,6 +15,7 @@ set shiftwidth=2
 set tabstop=2
 set expandtab
 set autoindent
+set encoding=UTF-8
 filetype indent on
 
 runtime ./maps.vim

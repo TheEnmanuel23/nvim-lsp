@@ -6,7 +6,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'nvim-lua/popup.nvim'
  Plug 'nvim-lua/plenary.nvim'
  Plug 'nvim-telescope/telescope.nvim'
+ " these icons work with telescope
  Plug 'kyazdani42/nvim-web-devicons'
+ " these icons work with nerdtree
+ Plug 'ryanoasis/vim-devicons'
  Plug 'hoob3rt/lualine.nvim'
  Plug 'windwp/nvim-autopairs'
  Plug 'folke/lsp-colors.nvim'
