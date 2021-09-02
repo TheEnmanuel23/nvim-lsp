@@ -20,4 +20,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'xiyaowong/nvim-transparent'
  Plug 'yuezk/vim-js'
  Plug 'maxmellon/vim-jsx-pretty'
+ Plug 'preservim/nerdtree'
+ Plug 'Xuyuanp/nerdtree-git-plugin'
 call plug#end()
