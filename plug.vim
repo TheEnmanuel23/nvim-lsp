@@ -25,4 +25,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'maxmellon/vim-jsx-pretty'
  Plug 'preservim/nerdtree'
  Plug 'Xuyuanp/nerdtree-git-plugin'
+ Plug 'hrsh7th/nvim-compe'
 call plug#end()
