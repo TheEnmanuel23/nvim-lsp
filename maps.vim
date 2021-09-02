@@ -1,3 +1,11 @@
+" Delete without yank
+nnoremap <leader>d "_d
+nnoremap x "_x
+
+" Increment/decrement
+nnoremap + <C-a>
+nnoremap - <C-x>
+
 "------------------------------
 " Windows
 
