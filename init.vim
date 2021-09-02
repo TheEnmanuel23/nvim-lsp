@@ -4,6 +4,8 @@ syntax enable
 " set winblend=0
 " set wildoptions=pum
 " set pumblend=5
+let mapleader=' '
+
 set background=dark
 set number relativenumber
 set mouse=a

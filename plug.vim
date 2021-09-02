@@ -11,5 +11,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'windwp/nvim-autopairs'
  Plug 'folke/lsp-colors.nvim'
  Plug 'tpope/vim-fugitive'
-
+ Plug 'easymotion/vim-easymotion'
 call plug#end()
