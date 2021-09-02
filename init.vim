@@ -17,4 +17,5 @@ set expandtab
 set autoindent
 filetype indent on
 
+runtime ./maps.vim
 runtime ./plug.vim
