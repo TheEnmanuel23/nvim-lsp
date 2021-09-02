@@ -18,4 +18,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'morhetz/gruvbox'
  Plug 'overcache/NeoSolarized'
  Plug 'xiyaowong/nvim-transparent'
+ Plug 'yuezk/vim-js'
+ Plug 'maxmellon/vim-jsx-pretty'
 call plug#end()
