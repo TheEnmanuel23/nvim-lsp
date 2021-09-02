@@ -27,7 +27,16 @@ map sk <C-w>k
 map sj <C-w>j
 map sl <C-w>l
 " Resize window
-nmap <C-c><left> <C-w><
-nmap <C-c><right> <C-w>>
-nmap <C-c><up> <C-w>+
-nmap <C-c><down> <C-w>-
+" map <C-c><left> <C-w><
+" map <C-c><right> <C-w>>
+" map <C-c><up> <C-w>+
+" map <C-c><down> <C-w>-
+" resize splits
+nnoremap <silent> <Leader>k :exe "resize " . (winheight(0) * 3/2)<CR>
+nnoremap <silent> <Leader>j :exe "resize " . (winheight(0) * 2/3)<CR>
+nnoremap <silent> <Leader>h :exe "vertical resize " . (winwidth(0) * 3/2)<CR>
+nnoremap <silent> <leader>l :exe "vertical resize " . (winwidth(0) * 2/3)<CR>
+
+" save and quit
+nmap <leader>w :w<Enter>
+nmap <leader>q :q<Enter>  
