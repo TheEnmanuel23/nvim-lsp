@@ -9,6 +9,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'kyazdani42/nvim-web-devicons'
  Plug 'hoob3rt/lualine.nvim'
  Plug 'windwp/nvim-autopairs'
+ Plug 'folke/lsp-colors.nvim'
+ Plug 'tpope/vim-fugitive'
 " Plug 'overcache/NeoSolarized'
 " Plug 'tpope/vim-fugitive'
 " Plug 'jlanzarotta/bufexplorer'
