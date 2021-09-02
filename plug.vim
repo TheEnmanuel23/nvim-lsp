@@ -13,4 +13,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'tpope/vim-fugitive'
  Plug 'easymotion/vim-easymotion'
  Plug 'tpope/vim-surround'
+ Plug 'terrortylor/nvim-comment'
+ Plug 'JoosepAlviste/nvim-ts-context-commentstring'
 call plug#end()
