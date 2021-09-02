@@ -12,4 +12,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'folke/lsp-colors.nvim'
  Plug 'tpope/vim-fugitive'
  Plug 'easymotion/vim-easymotion'
+ Plug 'tpope/vim-surround'
 call plug#end()
