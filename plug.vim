@@ -26,4 +26,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
  Plug 'preservim/nerdtree'
  Plug 'Xuyuanp/nerdtree-git-plugin'
  Plug 'hrsh7th/nvim-compe'
+ Plug 'voldikss/vim-floaterm'
 call plug#end()
