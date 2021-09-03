@@ -39,4 +39,4 @@ nnoremap <silent> <leader>l :exe "vertical resize " . (winwidth(0) * 2/3)<CR>
 
 " save and quit
 nmap <leader>w :w<Enter>
-nmap <leader>q :q<Enter>  
+nmap <leader>x :q<Enter>  
